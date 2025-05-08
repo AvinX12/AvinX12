@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on "A Virtual Fencing Framework for Safe and Efficient Collaborative Robotics" research project.
 - 💬 Ask me about Python, PyTorch, ML, DL, CV, Java, C++, AWS, ...or anything [here](https://github.com/AvinX12/AvinX12/issues).
 - 🌱 I’m currently learning Network Security and improving my Data Structures related skills.
-- 🤔 I’m seeking assistance in securing a full-time job in Software Engineering, Applied AI, ML, or Data Science roles in the US or Europe, preferably starting after May 2025, as I’ll be graduating then.
 - 😄 Pronouns: he/him
 - 📫 How to reach me:
 
